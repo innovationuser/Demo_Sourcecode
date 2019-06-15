@@ -12,9 +12,8 @@
 	<appSettings>
 		<clear />
 		<!-- Here are list of appsettings -->
-		<add key="customerservice" value="http://customerservice.dvllb.travp.net/xyz.svc" />
-		<add key="downstreamservice" value="http://downstreamservice.dvllb.travp.net/xyz.svc"/>
-		<add key="forms" value="http://formsservice.dvllb.travp.net/xyz.svc"/>
+		<add key="Equifax" value="http://equifax.domain.dev.net/xyz.svc" />
+		<add key="ReportOrdering" value="http://creditscore.domain.dev.net/xyz.svc"/>
 	</appSettings>
 
 </configuration>
